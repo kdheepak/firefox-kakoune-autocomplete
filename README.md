@@ -1,0 +1,1 @@
+# Firefox Kakoune Autocomplete
